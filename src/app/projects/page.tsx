@@ -1,3 +1,3 @@
 export default function Projects() {
-    <p>Hello World!</p>
+    return <p>Hello World!</p>
 }
